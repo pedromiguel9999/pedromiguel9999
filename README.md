@@ -8,3 +8,5 @@
 ![pedromiguel9999 GitHub  stats](https://github-readme-stats.vercel.app/api?username=pedromiguel9999&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromiguel9999&hide_progress=true)
+
+## Estou estudando Ciências Da Computação ,estou em busca de aprender mais a cada dia , por motivos medicos tenho problemas como TDAH combinado (Hiperatividade e Defict de Atenção) , Estou dando meu melhor para seguir em frente 
