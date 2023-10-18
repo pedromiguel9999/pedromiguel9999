@@ -7,4 +7,4 @@
 
 ![pedromiguel9999 GitHub  stats](https://github-readme-stats.vercel.app/api?username=pedromiguel9999&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromiguel9999&hide_progress=true)
