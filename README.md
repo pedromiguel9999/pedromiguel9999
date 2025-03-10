@@ -8,5 +8,3 @@
 ![pedromiguel9999 GitHub  stats](https://github-readme-stats.vercel.app/api?username=pedromiguel9999&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromiguel9999&hide_progress=true)
-
-## Estou estudando Ciências Da Computação onde estou cursando as seguintes grades Desenv. Web Em Html5, Css, Javascript E Php,Sistemas Operacionais,Paradigmas De Linguagens De Programação Em Python, Computação Em Nuvem E Web Services Em Linux,Engenharia De Software 
